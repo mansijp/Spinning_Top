@@ -1,4 +1,4 @@
-#Spinning_Top
+# Spinning Top
 
 These files are all the revisions made using SolidWorks, rendered images, and the final Photoshop portfolio images.
 
